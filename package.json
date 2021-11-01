@@ -1,7 +1,7 @@
 {
   "name": "vite-plugin-jsx-plus",
   "version": "0.1.0",
-  "description": "Vite Plugin that simplifies usage of jsx-plus",
+  "description": "Vite plugin that simplifies usage of jsx-plus",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "keywords": [
